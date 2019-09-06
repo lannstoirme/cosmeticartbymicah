@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+h1 { font-family: Quattrocento;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px; } 
+h2 { font-family: Quattrocento;
+     font-size: 20px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 700;
+     line-height: 22.4px;}
+h3 { font-family: Quattrocento; 
+    font-size: 17px; font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 18.4px; }
+h4 { 
+  font-family: Quattrocento;
+  font-size: 16px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 17.4px; 
+}
+p { font-family: Quattrocento;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px; }
+blockquote { font-family: Quattrocento;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px; }
+pre { font-family: Quattrocento;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px; }
+
+html {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+
